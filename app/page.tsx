@@ -23,7 +23,7 @@ export default function Home() {
             </button>
           </div>
         </div>
-        <img src="/hero-image-1.png" width={350} />
+        <img src="/hero-image-1.png" width={350} className="w-[350px] h-auto rounded-lg" />
       </section>
     </main>
   )
